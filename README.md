@@ -1,10 +1,10 @@
 # Protein Folding by Ant Colony Optimization (ACO) algorithm
 The protein folding problem is one of the most fundamental and challenging problems in molecular biology. In this project, I used Python to solve this problem by Ant Colony Optimization (ACO) algorithm. This algorithm was implemented after reading many research papers. References to those are mentioned.
 
-## Requirements
+### Requirements
 
 - Python 3.x
-- 
+
 - Numpy
 
 - Matplotlib
