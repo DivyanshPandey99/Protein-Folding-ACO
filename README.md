@@ -34,6 +34,8 @@ Here, cyan represents Polar amino acids, and, black represents Hydrophobic amino
 ## References
 - [Flexible protein folding by ant colony optimization - Hu, X. and Zhang, J. and Li, Y. (2008)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=449b3b12e1922a16ae2693d9a4ec794d81aa8aec)
 
+- [An ant colony optimisation algorithm for the 2D and 3D hydrophobic polar protein folding problem - Alena Shmygelska and Holger H Hoos](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-6-30)
+
 - [Ant Colony System Approach for Protein Folding - Stefka Fidanova, Ivan Lirkov](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4747347&tag=1)
 
 - [Application of improved intelligent ant colony algorithm in protein folding prediction - by Fengjuan Wang, Cheng Xu, Shufeng Jiang, and Fengxia Xu](https://journals.sagepub.com/doi/epub/10.1177/1748302620941411)
