@@ -1,7 +1,7 @@
 # Protein Folding by Ant Colony Optimization (ACO) algorithm
 The protein folding problem is one of the most fundamental and challenging problems in molecular biology. In this project, I used Python to solve this problem by Ant Colony Optimization (ACO) algorithm. This algorithm was implemented after reading many research papers. References to those are mentioned.
 
-### Protein Folding(PF)
+### Protein Folding (PF)
 Protein folding is the process by which a linear chain of amino acids folds into a three-dimensional structure that determines its function. The 2D HP model is a simplified version of protein folding that represents the protein as a sequence of amino acids in a two-dimensional lattice, where each amino acid is either hydrophobic (H) or polar (P). In this model, the hydrophobic amino acids tend to cluster together in the interior of the protein, while the polar amino acids tend to be on the exterior.
 
 The goal of the 2D HP model is to find the lowest energy conformation of the protein, which corresponds to the most stable and biologically functional structure. The energy of a conformation is determined by the number of hydrophobic contacts between neighboring amino acids in the lattice. Two hydrophobic amino acids are considered to be in contact if they are adjacent on the lattice and their side chains face each other.
