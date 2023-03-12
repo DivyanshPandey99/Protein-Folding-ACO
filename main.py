@@ -12,7 +12,7 @@ num_iterations = 100 # number of iterations for the ACO algorithm
 alpha = 1.0
 beta = 5.0
 evap_rate = 0.5 # Evaporation rate
-Emin = 2.0 # negative of E*min value
+Emin = 10.0 # negative of E*min value
 
 pheromone = np.ones((2*size+2,2*size+2,4)) # Pheromone matrix initialised to 1
 
